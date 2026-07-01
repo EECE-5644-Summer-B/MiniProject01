@@ -26,4 +26,4 @@ The aforementioned notebook exists in `notebook.ipynb`, and has been engineered 
 
 ## Summary of Findings
 
-This project focused on the use of pandas for data sheet maniputlation. In this poject a breath of new tools and skills were used to help clean and operate on data to change it to a more desired form. Information was added, removed, and converted to be used in sorted lists, graphs, and equations to understand it more fully.
+This project focused on the use of pandas for data sheet manipulation. In this project a breath of new tools and skills were used to help clean and operate on data to change it to a more desired form. Information was added, removed, and converted to be used in sorted lists, graphs, and equations to understand it more fully.
